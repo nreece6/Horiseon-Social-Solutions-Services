@@ -13,11 +13,10 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use this website, navigate to the appropriate web address. The page should resembe the below image.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/digital-marketing-meeting.jpg)
+To view the CSS elements, naviage to the Chrome DevTools by pressing Control+Shift+I. Once the consol panel opens, you can view the "Styles" in the tab of the same name.
+![alt text](assets/images/Horiseon-Social-Solution-Services.PNG)
 
 ## Credits
 
@@ -26,4 +25,3 @@ N/A
 ## License
 
 N/A
----
